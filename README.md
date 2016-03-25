@@ -15,7 +15,7 @@ Since this is the first lab, we'll keep it simple.  You will take the code from 
 ## Instructions
 
 
-*   Set up your development environment.  For this Track you will need to be able to compile and run Java code.  We developed the examples using the using Java SE Development Kit 7. If you are using a more recent version, everything should still work.  If you are using an older version, you might find some incompatibilities.
+*   Set up your development environment.  For this Track you will need to be able to compile and run Java code.  We developed the examples using the Java SE Development Kit 7. If you are using a more recent version, everything should still work.  If you are using an older version, you might find some incompatibilities.
 
     We recommend using an IDE like Eclipse that provides syntax-checking, auto-completion, and source code refactoring.  These features help you avoid errors or find them quicky.  However, if you are preparing for a technical interview, remember that you will not have these tools during the interview, so you might also want to practice writing code without them.
 
@@ -65,3 +65,5 @@ Since this is the first lab, we'll keep it simple.  You will take the code from 
 
 *  In the `ListClientExample` constructor, what happens if you replace `ArrayList` with `List`?  Why can't you instantiate a `List`?
 
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cs-swapping-implementations-lab'>Swapping Implementations</a> on Learn.co and start learning to code for free.</p>
